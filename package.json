@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/dlehdrb128/constructor-fun/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/dlehdrb128/constructor-fun#readme"
 }
